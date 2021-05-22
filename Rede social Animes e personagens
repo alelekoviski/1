@@ -1,0 +1,17 @@
+### [Rede Social de Animes e personagens]()
+
+- #### R01 -Cadastro de acesso para uso na rede social dos participantes
+
+A página deve possuir um formulário para inserção do dados dos usuários para ser registrado para criação do seu perfil na rede social.
+
+
+- #### R02 - Página do perfil
+
+A página do perfil para colocar as informações em campos para ser preenchido como nome rede sociais, fotos e vídeos.
+Uma play list de Animes e personagem que o usuário goste para catalogar em forma de "estante"
+
+- #### R03 - Funcionalidades
+
+A rede social com funcionalidades na time line de visualisar postagem de amigos e grupos.
+A inserção de grupos para o usuário fazer parte.
+Cosntrução de eventos.
